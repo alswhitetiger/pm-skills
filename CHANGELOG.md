@@ -1,5 +1,9 @@
 # Changelog
 
+## Unreleased
+
+- Added Cursor plugin manifests: a root `.cursor-plugin/marketplace.json` and a `.cursor-plugin/plugin.json` in every plugin, mirroring the Claude manifests. Claude manifests are unchanged.
+
 ## v2.2.0 — 2026-10-10
 
 ### pm-execution
